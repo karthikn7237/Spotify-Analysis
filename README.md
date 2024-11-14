@@ -21,7 +21,9 @@ So as a next step, I started creating a required calculated fields to create a a
 And also I created individual KPI's to get the insights about the customers and the company.
 ![Screenshot 2024-08-29 105408](https://github.com/user-attachments/assets/7f37a79f-2c20-4a86-ac3e-38a6868ab7c3)
 I created the Dsahboard to get an insights from the Analysis.
+
 ![Screenshot 2024-08-29 105418](https://github.com/user-attachments/assets/a7bff1b3-e901-4a85-ac93-088cec1f9520)
+
 Optimizing Advertisement Strategies Through Spotify Trend Analysis
 ![Screenshot 2024-08-29 105429](https://github.com/user-attachments/assets/011ce3c4-1f11-429a-b50c-debef18ca7d0)
 
