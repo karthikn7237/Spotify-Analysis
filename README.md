@@ -2,11 +2,14 @@
 # Problem Statement: 
 The objective of this project is to utilize Tableau's data visualization capabilities to analyze and present insights from Spotify data. This project seeks to leverage Tableau's visualization capabilities to transform raw Spotify data into meaningful and interactive visualizations that enable users to gain insights, make data-driven decisions, and explore their music preferences in a visually engaging manner. As an analyst come up with the recommendation on suggesting advertisement s to stay competitive in music industry.
 
-Overview This project aims to provide detailed insights into Spotify data through interactive visualizations created using Tableau. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
+# Overview 
+This project aims to provide detailed insights into Spotify data through interactive visualizations created using Tableau. By analyzing various metrics and trends, users can gain valuable insights into the musical landscape, track popularity, and streaming behavior.
 
-Data Collection: I collected the Spotify data that I want to analyze. This could include information about top tracks, playlists, and other relevant data.
+#Data Collection: 
+I collected the Spotify data that I want to analyze. This could include information about top tracks, playlists, and other relevant data.
 
-Data Preparation: I Cleaned and prepared the data by removing the null values and blank cells using Microsoft Excel for analysis. Ensured that the data is in a structured format and that it contains the necessary fields for the visualization goals.
+#Data Preparation: 
+I Cleaned and prepared the data by removing the null values and blank cells using Microsoft Excel for analysis. Ensured that the data is in a structured format and that it contains the necessary fields for the visualization goals.
 
 Analytical Approach The project employs a combination of descriptive and exploratory data analysis techniques to uncover patterns and insights within the Spotify dataset. Various visualizations, including bar charts, scatter plots, and tables, are utilized to present findings in a clear and accessible manner.
 
